@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p><img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" alt="error"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamkumar604&label=Profile%20views&color=0e75b6&style=flat" alt="gautamkumar604" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamkumar604" alt="gautamkumar604" /></a> </p>
